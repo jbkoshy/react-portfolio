@@ -1,1 +1,50 @@
-
+[
+    {
+        "id": 1,
+        "name": "Horiseon",
+        "image": "https://github.com/jeremykoshy/bootcamp/react-portfolio/src/assets/images/horiseon.png",
+        "github": "https://github.com/jbkoshy/On-the-Horiseon-01",
+        "deploy": "https://jbkoshy.github.io/On-the-Horiseon-01/",
+        "topics": "HTML, CSS"
+    },
+    {
+        "id": 2,
+        "name": "The Local Foodie",
+        "image": "https://github.com/jeremykoshy/bootcamp/react-portfolio/src/assets/images/5BE6DB8B-3407-4097-9017-17CB3F0453E0_1_105_c.jpeg",
+        "github": "https://github.com/jbkoshy/the-local-foodie",
+        "deploy": "https://shawnawhite3699.github.io/the-local-foodie/",
+        "topics": "HTML, CSS, Javascript"
+    },
+    {
+        "id": 3,
+        "name": "GetATutor",
+        "image": "https://github.com/jeremykoshy/bootcamp/react-portfolio/src/assets/images/08C67802-C035-4A3B-8022-1F7FBF2B9CDE_1_105_c.jpeg",
+        "github": "https://github.com/jbkoshy/GetATutor/tree/main",
+        "deploy": "https://get-a-tutor.herokuapp.com/",
+        "topics": "date-fns package, Node.js, Express.js, Express-session and cookies, Handlebars, MySql, Sequelize"
+    },
+    {
+        "id": 4,
+        "name": "Password Generator",
+        "image": "https://github.com/jeremykoshy/bootcamp/react-portfolio/src/assets/images/Screen Shot 2023-02-14 at 4.53.22 PM.png",
+        "github": "https://github.com/jbkoshy/Password-generate-hw",
+        "deploy": "https://jbkoshy.github.io/Password-generate-hw/",
+        "topics": "HTML, CSS, Javascript"
+    },
+    {
+        "id": 5,
+        "name": "Note Taker",
+        "image": "https://github.com/jeremykoshy/bootcamp/react-portfolio/src/assets/images/Screen Shot 2023-02-14 at 4.54.21 PM.png",
+        "github": "https://github.com/jbkoshy/taker-of-notes",
+        "deploy": "https://gentle-retreat-36628.herokuapp.com/notes",
+        "topics": "HTML, CSS, Javascript, Express.js, JSON"
+    },
+    {
+        "id": 6,
+        "name": "Text Editor",
+        "image": "https://github.com/jeremykoshy/bootcamp/react-portfolio/src/assets/images/Screen Shot 2023-02-14 at 4.55.03 PM.png",
+        "github": "https://github.com/jbkoshy/text-editor-pwa",
+        "deploy": "https://evening-temple-12083.herokuapp.com/",
+        "topics": "Javascript, Node.js, Express.js"
+    }
+]
