@@ -49,6 +49,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Screenshot
+<img width="1431" alt="Screen Shot 2023-02-14 at 10 54 45 PM" src="https://user-images.githubusercontent.com/112911066/218935367-1e0208fa-8b5a-4f71-ac17-87aa3899f53d.png">
 
 
 
